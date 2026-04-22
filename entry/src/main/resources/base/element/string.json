@@ -6,11 +6,79 @@
     },
     {
       "name": "EntryAbility_desc",
-      "value": "description"
+      "value": "XoX Game for Huawei Watch 5"
     },
     {
       "name": "EntryAbility_label",
-      "value": "label"
+      "value": "XoX Game"
+    },
+    {
+      "name": "turn_x",
+      "value": "Player X's turn"
+    },
+    {
+      "name": "turn_o",
+      "value": "Player O's turn"
+    },
+    {
+      "name": "winner_x",
+      "value": "X is winner!"
+    },
+    {
+      "name": "winner_o",
+      "value": "O is winner!"
+    },
+    {
+      "name": "draw_result",
+      "value": "It's a Draw!"
+    },
+    {
+      "name": "btn_restart",
+      "value": "Restart"
+    },
+    {
+      "name": "btn_reset_scores",
+      "value": "Reset Scores"
+    },
+    {
+      "name": "score_label_x",
+      "value": "X: "
+    },
+    {
+      "name": "score_label_o",
+      "value": "O: "
+    },
+    {
+      "name": "select_mode",
+      "value": "Select Mode"
+    },
+    {
+      "name": "mode_human",
+      "value": "2 Players"
+    },
+    {
+      "name": "mode_easy",
+      "value": "vs AI Easy"
+    },
+    {
+      "name": "mode_hard",
+      "value": "vs AI Hard"
+    },
+    {
+      "name": "turn_ai",
+      "value": "AI thinking..."
+    },
+    {
+      "name": "streak_label",
+      "value": "%d in a row!"
+    },
+    {
+      "name": "streak_icon",
+      "value": "*"
+    },
+    {
+      "name": "btn_menu",
+      "value": "< Menu"
     }
   ]
 }
